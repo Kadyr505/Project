@@ -1,5 +1,6 @@
 # Project
 
+[Видеопрезентация](https://drive.google.com/file/d/1CsT3ug4jqgkXKj05gqiv2mwdF1rnhta4/view?usp=share_link)
 
 [Серверное приложение](https://github.com/Kadyr505/Project-1)
 
